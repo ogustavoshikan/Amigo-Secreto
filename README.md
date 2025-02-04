@@ -13,7 +13,7 @@ Projeto desenvolvido como parte da **Formação Oracle Next Education (ONE)**, p
 </div>
 
 ## 🌎 Acesse o Projeto  
-🔗 [GitHub Pages](https://seu-usuario.github.io/amigo-secreto/)  
+🔗 [GitHub Pages](https://ogustavoshikan.github.io/Challenge-Amigo-Secreto-Alura/))  
 
 ## 👥 Idealizadores  
 <table>
