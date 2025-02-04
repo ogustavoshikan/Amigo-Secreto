@@ -36,7 +36,7 @@ Interface simples e intuitiva
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone (https://github.com/ogustavoshikan/Amigo-Secreto)
 
 Acesse a pasta do projeto:
 
