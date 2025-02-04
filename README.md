@@ -22,7 +22,7 @@ Projeto desenvolvido como parte da **Formação Oracle Next Education (ONE)**, p
       <a href="https://github.com/seu-usuario">
         <img src="https://github.com/ogustavoshikan.png" width="100px;" alt="Foto do idealizador"/>
         <br />
-        <sub><b>Seu Nome</b></sub>
+        <sub><b>Gustavo Gonçalves</b></sub>
       </a>
     </td>
   </tr>
